@@ -1,8 +1,6 @@
 # Wordle
 
-<p align="center"><img width="75%" src="https://seleniumbase.com/solve-wordle-with-seleniumbase/" alt="wordle game gif" />
-![image](https://user-images.githubusercontent.com/94393300/189193238-931e31fc-a3d8-4779-801c-87ad828c9ab6.png)
-
+<p align="center"><img width="75%" src="https://nathanfriend.io/2022/01/25/wordle.html" alt="wordle game gif" />
 
 ## Game's rule
   The rules of this word guessing game are simple and straightforward. A word of 5 letters is randomly generated from the dictionary file I have included. You get a total of 6 chances to get the word right. Once a guess is made the letters of that word turn grey, yellow, or green, indicating whether you are on the correct track to guess the word. If the box turns to green colour, it tells you that both the letter and the letter's position are right. If the space turns yellow, it implies that even though the letter is right, it is placed wrongly. The letter is incorrect if the box turns grey.
