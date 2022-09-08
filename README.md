@@ -1,6 +1,7 @@
 # Wordle
 
-<p align="center"><img width="75%" src="https://dev.to/mintzworld/solving-the-wordle-game-using-python-and-selenium-1aei" alt="wordle game gif" />
+<p align="center"><img width="75%" src="https://seleniumbase.com/solve-wordle-with-seleniumbase/" alt="wordle game gif" />
+![image](https://user-images.githubusercontent.com/94393300/189193238-931e31fc-a3d8-4779-801c-87ad828c9ab6.png)
 
 
 ## Game's rule
