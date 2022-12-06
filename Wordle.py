@@ -111,8 +111,7 @@ else:
                         print('Hard cheese \U00002639\t Better luck next time')
 
 '''
-TASKS TO BE DONE: 
-- word size == 5, !>5 && !<5
+TASKS TO BE DONE:
 - wordle engine to show possible answers
 - Generate alphabet set after every word entry
 '''
