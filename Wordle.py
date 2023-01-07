@@ -138,9 +138,3 @@ class My:
 
 My()
 My.Dictionary(self=None)
-
-'''
-TASKS TO BE DONE:
-- wordle engine to show possible answers
-- Generate alphabet set after every word entry
-'''
