@@ -24,3 +24,4 @@ pip install comtypes
 ## Things to be done
 - wordle engine to show possible answers
 - Generate alphabet set after every word entry
+- Computer generated voice revealing the word with it's meaning
