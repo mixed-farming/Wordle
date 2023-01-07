@@ -19,7 +19,7 @@ pip install pyttsx3
 ```
 pip install PyDictionary
 ```
-#### omtypes is a pure Python COM package based on the ctypes ffi foreign function library.
+#### comtypes is a pure Python COM package based on the ctypes ffi foreign function library.
 ```
 pip install comtypes
 ```
