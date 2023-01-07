@@ -11,12 +11,15 @@
 python3 -m pip install --upgrade pip
 ```
 ### Install necessary libraries:
+#### pyttsx3 is a text-to-speech conversion library in Python.
 ```
 pip install pyttsx3
 ```
+#### PyDictionary is a Dictionary Module for Python 2/3 to get meanings, translations, synonyms and Antonyms of words.
 ```
 pip install PyDictionary
 ```
+#### omtypes is a pure Python COM package based on the ctypes ffi foreign function library.
 ```
 pip install comtypes
 ```
