@@ -10,6 +10,16 @@
 ```
 python3 -m pip install --upgrade pip
 ```
+### Install necessary libraries
+```
+pip install pyttsx3
+```
+```
+pip install PyDictionary
+```
+```
+pip install comtypes
+```
 
 ## Things to be done
 - wordle engine to show possible answers
