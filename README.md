@@ -18,7 +18,7 @@ wget https://raw.githubusercontent.com/mixed-farming/Wordle/main/Wordle.py
 ```
 wget https://raw.githubusercontent.com/mixed-farming/Wordle/main/dictionary.txt
 ```
-### Upgrade pip:
+### Upgrade pip (assuming python3 pip is already installed):
 ```
 python3 -m pip install --upgrade pip
 ```
