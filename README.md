@@ -29,6 +29,7 @@ pip install pyttsx3
 ```
 #### PyDictionary is a Dictionary Module for Python 2/3 to get meanings, translations, synonyms and Antonyms of words.
 ```
+python3 -m pip install --upgrade pip setuptools
 pip install PyDictionary
 ```
 #### comtypes is a pure Python COM package based on the ctypes ffi foreign function library.
